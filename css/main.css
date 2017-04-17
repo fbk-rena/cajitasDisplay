@@ -1,0 +1,19 @@
+.conteiner{
+   display: inline-block;
+}
+.box{
+   background-color: pink;
+   border: solid aqua;
+   margin: 10px;
+   position: relative;
+}
+.mini{
+   height: 75px;
+   width: 75px;
+   background-color: aqua;
+   margin: 10px;
+}
+.block{
+   display: inline-block;
+   margin: 10px;
+}
